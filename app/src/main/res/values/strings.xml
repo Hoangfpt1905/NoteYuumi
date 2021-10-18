@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteYuumi</string>
+    <string name="no_tasks_all">You have no NOTE</string>
+    <string name="no_tasks_add">Add a NOTE +</string>
+    <string name="noteAppName">NOTE YUUMI</string>
+    <string name="edHintTitle">Title</string>
+    <string name="edHintContent">Content</string>
+    <string name="addNotes">ADD NOTE</string>
+    <string name="allNotes">ALL NOTES</string>
+</resources>
